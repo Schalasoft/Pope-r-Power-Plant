@@ -15,7 +15,7 @@ namespace PoperPowerPlant
             //Debug.Log(" === PoperPowerPlant_RoomTypes Postfix === ");
 
             // Get Power Plant
-            RoomType roomType = __instance.TryGet("PowerPlant");
+            RoomType roomType = __instance.TryGet(__instance.PowerPlant.Id);
 
             // Custom max size constraint
             int customMaxSize = 240;

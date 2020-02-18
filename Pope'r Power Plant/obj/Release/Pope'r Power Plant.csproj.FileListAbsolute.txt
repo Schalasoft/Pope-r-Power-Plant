@@ -3,3 +3,8 @@ C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\bin\Release\Pope
 C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\obj\Release\Pope'r Power Plant.csproj.CoreCompileInputs.cache
 C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\obj\Release\Pope'r Power Plant.dll
 C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\obj\Release\Pope'r Power Plant.pdb
+C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.dll
+C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.pdb
+C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.csproj.CoreCompileInputs.cache
+C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.dll
+C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.pdb
