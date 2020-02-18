@@ -33,6 +33,7 @@ namespace PoperPowerPlant
                 if (additional_constraints[i].name.Contains("Maximum size:"))
                 {
                     additional_constraints[i] = MaxSizeConstraint;
+                    break;
                 }
             }
         }
