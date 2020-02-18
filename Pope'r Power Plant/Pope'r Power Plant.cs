@@ -17,13 +17,16 @@ namespace PoperPowerPlant
             // Get Power Plant
             RoomType roomType = __instance.TryGet(__instance.PowerPlant.Id);
 
-            // Custom max size constraint
+            // Custom max size constraint for room
             int customMaxSize = 240;
             Constraint MaxSizeConstraint = new Constraint(null, (Room room) => room.cavity.numCells <= customMaxSize,
                 1,
                 string.Format(ROOMS.CRITERIA.MAXIMUM_SIZE.NAME, "" + customMaxSize),
                 string.Format(ROOMS.CRITERIA.MAXIMUM_SIZE.DESCRIPTION, "" + customMaxSize),
                 null);
+
+            // Custom max size for all rooms
+            TuningData<RoomProber.Tuning>.Get().maxRoomSize = customMaxSize;
 
             // Iterate constraints
             RoomConstraints.Constraint[] additional_constraints = roomType.additional_constraints;
