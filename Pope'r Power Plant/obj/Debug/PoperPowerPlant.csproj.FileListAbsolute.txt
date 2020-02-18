@@ -1,0 +1,5 @@
+C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\obj\Debug\PoperPowerPlant.csproj.CoreCompileInputs.cache
+C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\bin\Debug\Pope'r Power Plant.dll
+C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\bin\Debug\Pope'r Power Plant.pdb
+C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\obj\Debug\Pope'r Power Plant.dll
+C:\Users\cdoherty\source\repos\RoomSizeChanger\Pope'r Generator\obj\Debug\Pope'r Power Plant.pdb
