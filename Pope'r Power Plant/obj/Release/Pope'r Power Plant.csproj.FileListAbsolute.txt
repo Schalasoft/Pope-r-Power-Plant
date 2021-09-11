@@ -13,4 +13,5 @@ C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release
 C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.pdb
 C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.dll
 C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.pdb
-C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.csprojAssemblyReference.cache
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Properties\mod.yaml
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Properties\mod_info.yaml
