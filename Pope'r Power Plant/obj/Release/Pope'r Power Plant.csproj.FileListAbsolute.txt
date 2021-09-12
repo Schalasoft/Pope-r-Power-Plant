@@ -8,10 +8,14 @@ C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\bin\Release
 C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.csproj.CoreCompileInputs.cache
 C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.dll
 C:\Users\cdoherty\source\repos\Pope'r Power Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.pdb
-C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.csproj.CoreCompileInputs.cache
-C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.dll
-C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.pdb
-C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.dll
-C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.pdb
 C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Properties\mod.yaml
 C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Properties\mod_info.yaml
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.dll
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\Pope'r Power Plant.pdb
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\0Harmony.dll
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\bin\Release\0Harmony.xml
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.csproj.CoreCompileInputs.cache
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.csproj.CopyComplete
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.dll
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.pdb
+C:\Users\Cian\Documents\GitHub\Pope-r-Power-Plant\Pope'r Power Plant\obj\Release\Pope'r Power Plant.csprojAssemblyReference.cache
